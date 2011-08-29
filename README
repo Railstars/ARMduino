@@ -1,0 +1,1 @@
+A port of the functions provided by Arduino's WProgram.h for the NXP LPC17xx family of processors; shouldn't be hard to port to other ARM processors either.

@@ -14,7 +14,7 @@ extern "C" {
 #endif
 	void RIT_IRQHandler(void);
 
-void InitTimers(void);
+void init(void);
 
 uint32_t millis(void);
 

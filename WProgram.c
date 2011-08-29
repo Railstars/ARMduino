@@ -53,6 +53,10 @@ void InitTimers(void)
 
 }
 
+void init(void)
+{
+  InitTimers();
+}
 
 uint32_t millis(void)
 {
